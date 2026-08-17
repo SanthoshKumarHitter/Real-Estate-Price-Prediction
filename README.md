@@ -140,10 +140,5 @@
      
    ### 10) License:-
 
-              This project is licensed under the MIT License - see the LICENSE file for details.
-              
-   ### 11) Contact Information:-
-
-               MailId:- santhuhitter1515@gmail.com
-
+              This project is licensed under the MIT License
    
